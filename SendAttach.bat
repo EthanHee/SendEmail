@@ -1,0 +1,1 @@
+call CSmtp.exe "test主题" "test 正文" "C:\Users\Hezhenyu\Desktop\Big.jpg" "2284257319@qq.com#249792645@qq.com"
